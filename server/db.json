@@ -1,0 +1,35 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Producto 1",
+      "price": 25.45,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp"
+    },
+    {
+      "id": 2,
+      "name": "Producto 2",
+      "price": 17.99,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp"
+    },
+    {
+      "id": 3,
+      "name": "Producto 3",
+      "price": 42.75,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp"
+    },
+    {
+      "id": 4,
+      "name": "Producto 4",
+      "price": 10.5,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp"
+    },
+    {
+      "id": 5,
+      "name": "Producto 5",
+      "price": 55,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_2X_605126-MLM51559383638_092022-F.webp"
+    }
+  ],
+  "favoritos": []
+}
